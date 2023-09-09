@@ -50,7 +50,7 @@ You have the right to access, correct, or delete the personal information we hol
 We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. Any updates will be posted on this page with a revised effective date. We encourage you to review this Privacy Policy periodically for the latest information on our privacy practices.
 
 ## 10. International Users
-The Bot is hosted and operated in [India]. If you are accessing the Bot from outside [India], please be aware that your information may be transferred to, stored, and processed in [India]. By using the Bot, you consent to the transfer and processing of your information in [India].
+The Bot is hosted and operated in Bharat. If you are accessing the Bot from outside Bharat, please be aware that your information may be transferred to, stored, and processed in Bharat. By using the Bot, you consent to the transfer and processing of your information in Bharat.
 
 ## 11. Data Breach Notification
 In the event of a data breach that compromises the security of your personal information, we will take reasonable steps to notify you and relevant authorities (if required) in accordance with applicable laws.

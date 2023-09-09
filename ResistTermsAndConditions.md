@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to [Bot Name] ("the Bot"). These Terms and Conditions ("Terms") govern your use of the Bot and the services provided by the Bot. By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Bot.
+Welcome to Resist ("the Bot"). These Terms and Conditions ("Terms") govern your use of the Bot and the services provided by the Bot. By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Bot.
 
 ## 2. License to Use
 
@@ -27,7 +27,7 @@ We reserve the right to terminate your access to the Bot for violating any of th
 
 ## 5. Intellectual Property
 
-The Bot and its original content, features, and functionality are owned by [Bot Name] and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, modify, distribute, or otherwise use any portion of the Bot without express written permission from us.
+The Bot and its original content, features, and functionality are owned by Resist and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, modify, distribute, or otherwise use any portion of the Bot without express written permission from us.
 
 ## 6. Termination
 
@@ -35,11 +35,11 @@ We may terminate or suspend your access to the Bot without prior notice or liabi
 
 ## 7. Limitation of Liability
 
-To the fullest extent permitted by applicable law, in no event shall [Bot Name] or its developers be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (i) your access to or use of or inability to access or use the Bot; (ii) any conduct or content of any third party on the Bot; (iii) any content obtained from the Bot; or (iv) unauthorized access, use, or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence), or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed its essential purpose.
+To the fullest extent permitted by applicable law, in no event shall Resist or its developers be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (i) your access to or use of or inability to access or use the Bot; (ii) any conduct or content of any third party on the Bot; (iii) any content obtained from the Bot; or (iv) unauthorized access, use, or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence), or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed its essential purpose.
 
 ## 8. Indemnification
 
-You agree to indemnify and hold harmless [Bot Name] and its developers from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the Bot or your violation of these Terms.
+You agree to indemnify and hold harmless Resist and its developers from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the Bot or your violation of these Terms.
 
 ## 9. Modifications to the Bot
 
@@ -47,11 +47,11 @@ We reserve the right to modify or discontinue, temporarily or permanently, the B
 
 ## 10. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of India, without regard to its conflict of laws principles. Any dispute arising out of or relating to these Terms or your access to or use of the Bot shall be subject to the exclusive jurisdiction of the courts located in India.
+These Terms shall be governed by and construed in accordance with the laws of Bharat, without regard to its conflict of laws principles. Any dispute arising out of or relating to these Terms or your access to or use of the Bot shall be subject to the exclusive jurisdiction of the courts located in Bharat.
 
 ## 11. Entire Agreement
 
-These Terms constitute the entire agreement between you and [Bot Name] regarding the use of the Bot and supersede all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
+These Terms constitute the entire agreement between you and Resist regarding the use of the Bot and supersede all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
 
 ## 12. Severability
 
@@ -59,7 +59,7 @@ If any provision of these Terms is found to be invalid or unenforceable under ap
 
 ## 13. Waiver
 
-The failure of [Bot Name] to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision. Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision in that or any other instance.
+The failure of Resist to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision. Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision in that or any other instance.
 
 ## 14. Contact Information
 
